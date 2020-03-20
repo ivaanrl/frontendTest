@@ -1,0 +1,9 @@
+{
+  "autos": {
+    "marcas": {
+      "peugeot": ["308", "307"],
+      "ford": ["fiesta", "mustang"],
+      "toyota": ["corolla", "hilux"]
+    }
+  }
+}
