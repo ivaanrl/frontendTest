@@ -1,0 +1,23 @@
+.grid-el {
+  min-height: 100px;
+}
+
+.el1 {
+  background-color: pink;
+}
+
+.el2 {
+  background-color: powderblue;
+}
+
+.el3 {
+  background-color: seagreen;
+}
+
+@media (min-width: 600px) {
+  .grid-container {
+    display: grid;
+    min-height: 100px;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
