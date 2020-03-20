@@ -1,0 +1,16 @@
+.error {
+  border-color: red;
+}
+.no-error {
+  border-color: greenyellow;
+}
+
+#form {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+
+#form input {
+  margin-bottom: 10px;
+}
